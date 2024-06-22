@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-style {
+  @apply p-2 outline-none w-full border rounded-lg text-black;
+}
